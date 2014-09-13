@@ -93,6 +93,9 @@ p.large {
 .light-text {
 	color: #FFFFFF;
 }
+.light-text-black {
+	color: #000000;
+}
 .color-heading {
 	width: 100%;
 	padding: 20px 40px; 
